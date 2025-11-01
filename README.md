@@ -4,10 +4,9 @@
 ---
 
 ### 💫 About Me:
-- 💻 I’m currently learning **JavaScript** and **Java**
-- 🌱 Focused on improving my front-end and logic skills  
-- 🚀 Exploring the intersection of creativity and code  
-- 📫 How to reach me: **[r0b3rts2332@gmail.com]**
+I am currently studying Systems Development and my focus is on improving my FrontEnd skills. 
+I would like to further my knowledge of Java and JavaScript. If you would like to contact me directly, 
+please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 

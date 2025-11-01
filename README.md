@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h1 align="center">Hi, I'm Miguel and this is my Github </h1>
 <h3 align="center">A passionate developer always learning and building new things.</h3>
 
 ---
 
-### 💫 About Me:
+### About Me:
 I am currently studying Systems Development and my focus is on improving my FrontEnd skills. 
 I would like to further my knowledge of Java and JavaScript. If you would like to contact me directly, 
 please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 
-### 📊 GitHub informations:
+### GitHub informations:
 <div align="center">
   
   ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJR23&layout=compact&theme=midnight-purple&hide_border=true)
@@ -20,7 +20,7 @@ please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 
-### 🌐 Connect with Me:
+### Connect with Me:
 <div align="center">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel23jg)

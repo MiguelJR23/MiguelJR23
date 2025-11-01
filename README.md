@@ -44,4 +44,7 @@
 ---
 
 ### ✨ Fun Fact:
-> “Code is like art — the more you practice, the more elegant it becomes.”
+<div align="center">
+  <img src="https://media.tenor.com/5IJKWwH14GAAAAAj/pokemon-mudkip.gif" width="120" align="right">
+  <p><i>"Code is like art — the more you practice, the more elegant it becomes."</i></p>
+</div>

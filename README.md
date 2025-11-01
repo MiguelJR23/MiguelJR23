@@ -44,5 +44,5 @@
 ---
 
 ### ✨ Fun Fact:
-<img height="120" src="https://media.tenor.com/5IJKWwH14GAAAAAj/pokemon-mudkip.gif" alt="Mudkip animation" align="right"/>
+<img height="120" src="https://media.tenor.com/cQtoIIrpSxQAAAAj/pokemon-mudkip.gif" alt="Mudkip animation" align="right"/>
 <i>"Code is like art — the more you practice, the more elegant it becomes."</i>

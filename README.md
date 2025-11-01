@@ -1,10 +1,5 @@
-<svg fill="none" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Fira Code" font-size="26" fill="#9A5DE8" opacity="0">
-    Hi 👋, I'm Miguel
-    <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
-  </text>
-</svg>
+<h1 align="center">Hi 👋, I'm Miguel</h1>
+<h3 align="center">A passionate developer always learning and building new things.</h3>
 
 ---
 
@@ -15,7 +10,7 @@ please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub informations:
 <div align="center">
   
   ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJR23&layout=compact&theme=midnight-purple&hide_border=true)

@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A passionate developer always learning and building new things.</h3>
+<!-- 👋 Intro animada -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9A5DE8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Miguel)](https://git.io/typing-svg)
+
+<h3>A passionate developer always learning and building new things.</h3>
+
+</div>
 
 ---
 

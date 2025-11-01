@@ -13,7 +13,8 @@ please send a message to my email: **[r0b3rts2332@gmail.com]**
 ### 📊 GitHub Stats:
 <div align="center">
   
-  ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true)
+  ![Stats Card](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJR23&layout=compact&theme=midnight-purple&hide_border=true)
+
 
 </div>
 

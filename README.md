@@ -1,11 +1,10 @@
-<!-- 👋 Intro animada -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=9A5DE8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Miguel)](https://git.io/typing-svg)
-
-<h3>A passionate developer always learning and building new things.</h3>
-
-</div>
+<svg fill="none" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Fira Code" font-size="26" fill="#9A5DE8" opacity="0">
+    Hi 👋, I'm Miguel
+    <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
 
 ---
 

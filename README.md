@@ -33,7 +33,7 @@ please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 
-### 🧠 Technologies I Use and Study:
+### 🧠 Technologies I use and study:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
@@ -43,6 +43,6 @@ please send a message to my email: **[r0b3rts2332@gmail.com]**
 
 ---
 
-### ✨ Fun Fact:
+### What Mudkip says:
 <i>"Like Mudkip, I adapt to any environment, whether it’s water, code, or caffeine."</i> <img height="120" src="https://media.tenor.com/cQtoIIrpSxQAAAAj/pokemon-mudkip.gif" alt="Mudkip animation" style="vertical-align: middle;"/>
 

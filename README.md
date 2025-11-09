@@ -44,12 +44,6 @@ If you'd like to contact me directly, feel free to reach me at: **r0b3rts2332@gm
 
 ---
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/MiguelJR23/MiguelJR23/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
 
 ### What Mudkip says:
 <i>"Like Mudkip, I adapt to any environment, whether it’s water, code, or caffeine."</i> <img height="120" src="https://media.tenor.com/cQtoIIrpSxQAAAAj/pokemon-mudkip.gif" alt="Mudkip animation" style="vertical-align: middle;"/>

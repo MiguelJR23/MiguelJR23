@@ -46,13 +46,7 @@ If you'd like to contact me directly, feel free to reach me at: **r0b3rts2332@gm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiguelJR23&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJR23&layout=compact&theme=midnight-purple&hide_border=true" height="165" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelJR23&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/MiguelJR23/MiguelJR23/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 

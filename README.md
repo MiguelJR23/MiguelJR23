@@ -4,19 +4,9 @@
 ---
 
 ### About Me:
-I'm currently studying Systems Development, with a focus on improving my Front-End skills.  
-I'm also deepening my knowledge of **Java** and **JavaScript**.  
+I'm currently studying Systems Development, I'm still discovering the exact area of 
+​​programming that I enjoy, so I'm exploring it bit by bit.
 If you'd like to contact me directly, feel free to reach me at: **r0b3rts2332@gmail.com**
-
----
-
-### GitHub informations:
-<div align="center">
-  
-  ![Stats Card](https://github-readme-stats.vercel.app/api?username=MiguelJR23&show_icons=true&theme=midnight-purple&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJR23&layout=compact&theme=midnight-purple&hide_border=true)
-
-
-</div>
 
 ---
 

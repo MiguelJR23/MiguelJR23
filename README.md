@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miguel and this is my Github </h1>
-<h3 align="center">A passionate developer always learning and building new things.</h3>
+<h3 align="center">I'm just an amateur programmer trying to understand the field.</h3>
 
 ---
 
